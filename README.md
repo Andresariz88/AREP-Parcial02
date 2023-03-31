@@ -45,3 +45,5 @@ Corremos la imagen
 Y probamos
 
 ![](img/img6.png)
+
+[Link del video de prueba](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/andres_ariza-p_mail_escuelaing_edu_co/EVOZLl-eNMRLh6XVMZ42vyEBJNxBnk9Jor6ZfACes53pqw?e=Cu0i3g)
