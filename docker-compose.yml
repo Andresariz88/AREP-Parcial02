@@ -1,0 +1,11 @@
+version: '2'
+
+
+services:
+  collatz:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: collatz
+    ports:
+      - "4567:6000"
